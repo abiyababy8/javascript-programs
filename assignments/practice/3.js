@@ -1,3 +1,4 @@
+// Write a program to find multiplication of 2 numbers using + operator you must use minimum possible iterations.
 res = 0
 function multiply(a, b) {
     a1 = Math.abs(a);
